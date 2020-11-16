@@ -1,1 +1,1 @@
-password = 'postgres'
+password = 'PASSWORD GOES HERE'

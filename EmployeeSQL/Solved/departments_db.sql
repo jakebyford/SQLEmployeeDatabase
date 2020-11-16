@@ -1,6 +1,7 @@
 create table departments (
 	dept_no VARCHAR,
-	dept_name VARCHAR
+	dept_name VARCHAR,
+	PRIMARY KEY dept_no
 );
 
 select * from departments
