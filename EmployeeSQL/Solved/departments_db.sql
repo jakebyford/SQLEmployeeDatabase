@@ -46,7 +46,7 @@ create table titles (
 
 select * from titles
 -----------------------------------------------------------------------------
---1)List the following details of each employee: employee number, last name, first name, sex, and salary.
+--1)Listt the following details of each employee: employee number, last name, first name, sex, and salary.
 select e.emp_no, e.last_name, e.first_name, e.sex, s.salary
 From salaries as s
 inner join employees as e ON
