@@ -5,7 +5,7 @@ create table departments (
 );
 
 select * from departments
--------------------------------
+---------------------------------------
 create table dept_emp (
 	emp_no INTEGER,
 	dept_no VARCHAR
