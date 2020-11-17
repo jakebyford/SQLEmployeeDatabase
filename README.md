@@ -35,6 +35,11 @@ After creating the tables from the table_schemata.sql file and populating them w
 8.) In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.\
 ![](EmployeeSQL/Images/sql8.png)\
 
+## ERD
+
+Demonstrate Data Modeling by inspecting the provided CSV and sketching an Entity-Relationship-Diagram (ERD).\
+![](EmployeeSQL/Images/QuickDBD-export.png)
+
 ## Bonus
 
 As I've examined the data, I was overcome with a creeping suspicion that the dataset is fake. I surmised that my boss handed me spurious data in order to test the data engineering skills of a new employee. To confirm my hunch, I decided to take the following steps to generate a visualization of the data, with which I will confront your boss
