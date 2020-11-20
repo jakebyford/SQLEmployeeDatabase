@@ -14,7 +14,7 @@ Download on https://www.postgresql.org/ and open with PGAdmin4
 
 ## Step 3: Data Engineering
 
-After creating the tables from the <b>table_schemata.sql file</b> and populating them with the csv files from the resources folder we can begin data analysis.
+After creating the tables from the <strong>table_schemata.sql file</strong> and populating them with the csv files from the resources folder we can begin data analysis.
 
 ## Step 4: Data Analysis
 
